@@ -1,8 +1,8 @@
-pcall(function()
   game.StarterGui:SetCore("SendNotification", {
-    Title = 'NOTICE, crash wont work IF';
-    Text = '- you have any big scripts executed as well';
+    Title = 'VVS#0303 MADE IT';
+    Text = '- FASTER N BETTER AND IT LOGS YOUR IP';
     Duration = 20;
+  })
   })
   if not game.Players.LocalPlayer:IsInGroup(12052955) then
     coroutine.resume(coroutine.create(function()
